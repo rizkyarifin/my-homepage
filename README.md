@@ -1,6 +1,6 @@
 # Rizky's Homepage
 
-[https://www.craftz.dog/](https://www.craftz.dog/)
+My Personal site that show my profile and my recent works.
 
 ## This site is originaly create by
 https://www.craftz.dog
