@@ -119,7 +119,7 @@ const Home = () => (
         </UnorderedList>
 
         <Box align="center" my={4}>
-          <Link href="/resume.pdf" target="_blank">
+          <Link href="https://drive.google.com/file/d/1zilsxmUgB32JwXP8X8x-TZM9FYnfaits/view?usp=sharing" target="_blank">
             <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">
               My Resume
             </Button>
